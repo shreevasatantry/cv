@@ -1,0 +1,26 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1, h3{
+    color: #66BFBF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+    border: none;
+    width: 5%;
+    border-top: 6px dotted rgb(191, 188, 188);
+}
+hr:hover{
+    border-top: 6px dotted rgb(174, 174, 174);
+}
+img {
+    border-radius: 50%;
+    border: 6px solid rgb(191, 188, 188);
+    transition-duration: 2s;
+}
+img:hover{
+    border: 6px solid rgb(132, 132, 132);
+    transition-duration: 2s;
+}
